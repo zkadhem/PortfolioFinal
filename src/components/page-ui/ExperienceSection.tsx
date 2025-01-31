@@ -36,43 +36,44 @@ export function ExperienceSection() {
 
 const experience = [
   {
-    title: "Experis Game Solutions",
+    title: "Sandhills Global",
     description: (
       <ul className="list-disc">
         <li>
-          Collaborating closely with developers and other team members, refining
-          gameplay, enhancing user experience, and ensuring that games meet both
-          company standards and player expectations before release.
+          Development in C#, .NET, VB, Swift, and Objective-C. Developing applications
+          using Xamarin, utilizing MVC architecture to create scalable applications in
+          C# on the .NET Framework.
         </li>
         <li>
-          Lead the frontend development team, focusing on creating, improving,
-          and fine-tuning web applications to make them fast and reliable. My
-          job includes planning our technical approaches, guiding the team, and
-          actively coding and reviewing code.
+          Working within a professional environment that adheres to Agile practices,
+          daily task flows, and ensuring client satisfaction with the product through
+          internal application reviews.
         </li>
       </ul>
     ),
-    badge: "Quality Assurance Intern / Jun 2024 - Aug 2024",
+    badge: "Software Developer Intern / Dec 2024 - Present",
   },
   {
-    title: "Smoke N Vape World",
-    description: (
-      <ul className="list-disc">
-        <li>
-          Implementing security measures to protect sensitive customer data and
-          business information, including setting up firewalls, managing
-          antivirus software, and regularly updating security protocols.
-        </li>
-        <li>
-          Overseeing the network integration of POS systems, ensuring smooth
-          transaction processing, and troubleshooting any connectivity issues.
-        </li>
-      </ul>
-    ),
-    badge: "Network Administrator / Mar 2021 - Sep 2024",
+      title: "Experis Game Solutions",
+      description: (
+          <ul className="list-disc">
+              <li>
+                  Collaborating closely with developers and other team members, refining
+                  gameplay, enhancing user experience, and ensuring that games meet both
+                  company standards and player expectations before release.
+              </li>
+              <li>
+                  Lead the frontend development team, focusing on creating, improving,
+                  and fine-tuning web applications to make them fast and reliable. My
+                  job includes planning our technical approaches, guiding the team, and
+                  actively coding and reviewing code.
+              </li>
+          </ul>
+      ),
+      badge: "Quality Assurance Intern / Jun 2024 - Aug 2024",
   },
   {
-    title: "The Resolute Group",
+    title: "Compass Strategies",
     description: (
       <ul className="list-disc">
         <li>
@@ -91,7 +92,7 @@ const experience = [
         </li>
       </ul>
     ),
-    badge: "Junior Software Development Intern / Apr 2021 - Jun 2021",
+    badge: "Campaign Coordinator / Aug 2019 - Oct 2022",
   }, //,
   /*   {
         title: '(Intenship)',
